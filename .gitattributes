@@ -1,0 +1,9 @@
+*.pdf linguist-detectable=false
+*.dat linguist-detectable=false
+*.log linguist-detectable=false
+*.aux linguist-detectable=false
+*.eps linguist-detectable=false
+*.ps linguist-detectable=false
+*.2 linguist-detectable=false
+*.3 linguist-detectable=false
+*.4 linguist-detectable=false
